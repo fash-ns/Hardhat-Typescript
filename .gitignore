@@ -1,0 +1,10 @@
+# IDE Files
+.idea
+
+# Hardhat files
+cache
+artifacts
+
+# Yarn utilities
+node_modules
+yarn-error.log
